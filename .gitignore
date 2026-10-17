@@ -1,0 +1,14 @@
+
+# Personal data
+data/
+
+# Generated Excel report
+vehicle_service_report.xlsx
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Virtual environments and secrets
+.venv/
+.env
